@@ -15,7 +15,6 @@
       "error",
       "LabeledStatement",
       "WithStatement"
-    ],
-    "linebreak-style": 0
+    ]
   }
 }
